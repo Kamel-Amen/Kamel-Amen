@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## 👨🏻‍💻 About Me:
 <img  src="https://user-images.githubusercontent.com/62405933/161188563-8508262f-6848-4b8b-b7c7-25225dc25772.gif" height="290px" align="right" />
 
-## My Most Used Working ToOls 💻
+## My Most Used Working Tools 💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamel-Amen)](https://github.com/Kamel-Amen/github-readme-stats)
 
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ## ❤️ Let's get a Coffee: 😄
 
 <p>
- <a href="https://www.linkedin.com/in/kamel-amen-386111200/" target="_blank">
+ <a href="https://www.linkedin.com/in/kamel-amen/" target="_blank">
    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
  </a> 
  <a href="https://www.facebook.com/profile.php?id=100011695663646" target="_blank">
