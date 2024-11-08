@@ -38,7 +38,9 @@ Here are some ideas to get you started:
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="25px"/>
 <img alt="typescript" src="https://img.shields.io/badge/Typescript-CC6699?style=for-the-badge&logo=typescript&logoColor=white" height="25px"/>
-<img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px />
+<img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px" />
+<img alt="firebase" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" height="25px" />
+<img alt="next js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px" />
 </p>
 
 ## ❤️ Let's get a Coffee: 😄
