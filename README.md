@@ -65,8 +65,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://kamel-amen.github.io/react-portfolio/" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white
-" height="30px" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" height="30px" />
   </a>
 
 </p>
